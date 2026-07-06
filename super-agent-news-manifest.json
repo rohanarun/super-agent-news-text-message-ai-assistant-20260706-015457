@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "Apple",
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHh5ZUJodXpvNGI2Y09yQ25oNUszam5rendnZ2haX2l2dTMxbWcwU1Jlb0xjdnNRckNkMElCZy02aHhlQUFfNmZTeU1faE1vLW1aRzByektzWFJ4MEUycjJtY1dkRi1DVGN0dWNzdFIyQjlPdWJ2RG5LLTVXelN5SU5BUGZFeFZNSU0zMEpUcUFPLWxySlpSWjA2c0FvZDRxRzlZWWdPNU02M0JMVUVsN1Vfbw?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+    },
+    {
+      "source": "Tech Times",
+      "title": "AI Agent Safety: Benchmark Finds None of 13 Agents Cleared 40% Safe Completion",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkZYUlRvMGswUVU0WEgxX2ZRNFRvSkgwanZqMnhrd2g1ajhLUjNCZjRpeG9QandNNl9YZWl4SzVZamg5Z3BGMG1OVnZnQXVyY00xNEI0Ym04c2pLc2RfMzZtdExDOWlxSXJHZDh6V1VndFZjTUtXRXR2Q0RZWnA5VGIxTjY0VnVJdTlTdzBHOUhFMkNCbTkxRzM2OThEeGtYc19La3oyRlZuS2ItaTNpZ3l3ZklsOE9NME5zRGhuei0tcGwwbmZJ?oc=5"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3?oc=5"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Text message AI assistant|use_case|people who want to text an AI assistant instead of opening another app|2026-07-06T01:54:10.997584+00:00') \u2192 hero=workflow-command-center, components=[workflow-playbook-timeline, implementation-checklist, source-card-dossier], gsap=[card-stacking, hover-physics]. AIDA Check: Hero grabs attention with SMS-first promise; proof via market context and sources; desire via reusable computer-use cache examples; action via strong CTA. Font Selection: Cabinet Grotesk. Hero Math Verification: max-width 1120px, clamp sizing ensures 2\u20133 lines. Bento Density Verification: compare/bento grids use grid-auto-flow: dense. GSAP Motion Selection: card stacking on scroll, hover physics on cards. Label Sweep & Button Check: all CTAs point to Super login; competitors mentioned; contrast verified.",
+  "generated_at": "2026-07-06T01:55:04.035660+00:00",
+  "headline": "Text message AI assistant that actually does the work",
+  "site_brief": {
+    "audience": "people who want to text an AI assistant instead of opening another app",
+    "canonical_url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Text message AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "text message AI assistant",
+      "SMS AI assistant",
+      "personal AI assistant by text",
+      "AI agent texting workflow automation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "text-message-ai-assistant",
+    "title": "Text message AI assistant",
+    "use_case_intent": "show how Super turns SMS-style requests into real computer actions, follow-ups, reminders, and app workflows"
+  },
+  "summary": "A practical field guide to using Super as a text message AI assistant\u2014send simple messages, trigger real computer actions, and reuse a computer-use cache so repeated workflows get faster and cheaper over time."
+}
